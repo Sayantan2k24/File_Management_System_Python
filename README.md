@@ -57,5 +57,5 @@ python file_management.py
 
 ## 📌 Author
 Developed by **Sayantan Samanta**  
-🔗 GitHub Repository: https://github.com/Sayantan2k24/File_Management_py  
+🔗 GitHub Repository: https://github.com/Sayantan2k24/File_Management_System_Python  
 
